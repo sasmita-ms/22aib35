@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+
+a {
+    color: #1976d2;
+    text-decoration: none;
+}
